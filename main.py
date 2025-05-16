@@ -84,9 +84,9 @@ topics = [
 ]
 
 # Text area and font config
-text_area_coords = (555, 258, 1150, 405)  # x1, y1, x2, y2
+text_area_coords = (565, 298, 1150, 425)  # x1, y1, x2, y2
 font_path = "DejaVuSans-Bold.ttf"
-font_size = 42
+font_size = 30
 
 # Load font
 font = ImageFont.truetype(font_path, font_size)
